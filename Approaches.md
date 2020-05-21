@@ -5,26 +5,26 @@
 
 ## First Apprach  
 ### Basic CNN-Model
-	-  Training Accuracy = 0.9024
+	- Training Accuracy = 0.9024
 	- Validation Accuracy = 0.9029
 
-	![alt CNN_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/images/CNN_10_epochs_256_imres_Accuracy.png?raw=true)
-    ![alt CNN_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/images/CNN_10_epochs_256_imres_Accuracy.png?raw=true)
+	![alt CNN_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/master/images/CNN_10_epochs_256_imres_Accuracy.png?raw=true)
+    ![alt CNN_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/master/images/CNN_10_epochs_256_imres_Plot.png?raw=true)
 
 ## Second Approach
 ### Mobilenet-Model
-	-  Training Accuracy = 0.9913
+	- Training Accuracy = 0.9913
 	- Validation Accuracy = 0.9587
 
-	![alt Mobilenet_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/images/Mobilenet_30_epochs_150_imres_Accuracy.png?raw=true)
-    ![alt Mobilenet_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/images/Mobilenet_30_epochs_150_imres_Plot.png?raw=true)
+	![alt Mobilenet_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/master/images/Mobilenet_30_epochs_150_imres_Accuracy.png?raw=true)
+    ![alt Mobilenet_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/master/images/Mobilenet_30_epochs_150_imres_Plot.png?raw=true)
 
 ## Third Approach (Best one)
 ### VGG16-Model 
-	-  Training Accuracy = 0.9960
+	- Training Accuracy = 0.9960
 	- Validation Accuracy = 0.9749
 
-	![alt VGG16_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/images/VGG16_16_epochs_256_imres_Accuracy.png?raw=true)
-    ![alt VGG16_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/images/VGG16_16_epochs_256_imres_PLot.png?raw=true)
+	![alt VGG16_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/master/images/VGG16_16_epochs_256_imres_Accuracy.png?raw=true)
+    ![alt VGG16_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/master/images/VGG16_16_epochs_256_imres_PLot.png?raw=true)
 
     Docker container built on weights of this Approach
