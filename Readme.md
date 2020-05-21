@@ -27,5 +27,5 @@
 # Before running any notebook:
   Run "Data_Preparation.ipynb" notebook first
 # Find Approaches Accuacies in:
-  https://github.com/Naghamm/Scene_Recognition/Approaches.md
+  https://github.com/Naghamm/Scene_Recognition/blob/master/Approaches.md
  
