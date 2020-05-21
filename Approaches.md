@@ -16,8 +16,8 @@
 	- Training Accuracy = 0.9913
 	- Validation Accuracy = 0.9587
 
-	![alt Mobilenet_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/master/images/Mobilenet_30_epochs_150_imres_Accuracy.png?raw=true)
-    ![alt Mobilenet_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/master/images/Mobilenet_30_epochs_150_imres_Plot.png?raw=true)
+![Mobilenet_Training_Accuracy](https://github.com/Naghamm/Scene_Recognition/blob/master/images/Mobilenet_30_epochs_150_imres_Accuracy.png?raw=true)
+![Mobilenet_Train_Val_Plot](https://github.com/Naghamm/Scene_Recognition/blob/master/images/Mobilenet_30_epochs_150_imres_Plot.png?raw=true)
 
 ## Third Approach (Best one)
 ### VGG16-Model 
